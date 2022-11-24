@@ -1,14 +1,15 @@
-#Автор: Павлов Виктор Андреевич
 
-Выполненная лабораторная работа:
-
-[Лабораторная 1](https://colab.research.google.com/drive/1vb1CpWoaIG2tNoq6P_WuzdQPOf5nWQV2?usp=sharing)
 
 
 # PythonUrbanNovember2022
 Основы программирования и анализа данных на языке Python для урбанистов
+# Автор: Павлов Виктор Андреевич
 
-## План работы
+### Выполненная лабораторная работа:
+
+[Лабораторная 1](https://colab.research.google.com/drive/1vb1CpWoaIG2tNoq6P_WuzdQPOf5nWQV2?usp=sharing)
+
+### План работы
 - [Лекция 1](https://colab.research.google.com/drive/1923Z5cSGp4liSADpNEU9NV2qMtppqpmi?usp=sharing)
 - [Лекция 2](https://colab.research.google.com/drive/1H-sDrSdFzufvTdqa7z-5U0hlVGEu64ur?usp=sharing) 
   - [Лабораторная 0](https://github.com/aeksei/PythonUrbanITMO/tree/main/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%200)
