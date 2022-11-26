@@ -8,7 +8,7 @@
 ### Выполненные лабораторные работы:
 
 [Лабораторная 1](https://colab.research.google.com/drive/1vb1CpWoaIG2tNoq6P_WuzdQPOf5nWQV2?usp=sharing)
-[Лабораторная 2] (https://colab.research.google.com/drive/13esCez70MraxKNbBruchlydrd_sEW2w3?usp=sharing)
+[Лабораторная 2](https://colab.research.google.com/drive/13esCez70MraxKNbBruchlydrd_sEW2w3?usp=sharing)
 
 ### План работы
 - [Лекция 1](https://colab.research.google.com/drive/1923Z5cSGp4liSADpNEU9NV2qMtppqpmi?usp=sharing)
